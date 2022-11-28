@@ -1,0 +1,15 @@
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\bin\Debug\net6.0\Exampe11.exe
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\bin\Debug\net6.0\Exampe11.deps.json
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\bin\Debug\net6.0\Exampe11.runtimeconfig.json
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\bin\Debug\net6.0\Exampe11.dll
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\bin\Debug\net6.0\Exampe11.pdb
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\obj\Debug\net6.0\Exampe11.csproj.AssemblyReference.cache
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\obj\Debug\net6.0\Exampe11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\obj\Debug\net6.0\Exampe11.AssemblyInfoInputs.cache
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\obj\Debug\net6.0\Exampe11.AssemblyInfo.cs
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\obj\Debug\net6.0\Exampe11.csproj.CoreCompileInputs.cache
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\obj\Debug\net6.0\Exampe11.dll
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\obj\Debug\net6.0\refint\Exampe11.dll
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\obj\Debug\net6.0\Exampe11.pdb
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\obj\Debug\net6.0\Exampe11.genruntimeconfig.cache
+C:\Users\fr3nk\OneDrive\Рабочий стол\cc\Exampe11\obj\Debug\net6.0\ref\Exampe11.dll
